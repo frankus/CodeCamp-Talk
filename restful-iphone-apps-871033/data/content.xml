@@ -1,0 +1,1426 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<zuiprezi>
+  <version>1</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds height="1254.9" width="1334.95" x="-182.9" y="-549.3" />
+    </settings>
+    <object class="head" id="1" r="0" s="1" type="label" x="-73.65" y="0">
+      <textfield>
+        <x>-109.2</x>
+        <y>-15.25</y>
+        <text>RESTful iPhone Apps</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">RESTful iPhone Apps</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="2" r="0" s="0.07818727195262909" type="label" x="80.35" y="5.1">
+      <textfield>
+        <x>-178.95</x>
+        <y>-30.8</y>
+        <text>Consuming REST Web Services with ObjectiveResource</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Consuming REST Web Services with ObjectiveResource</FONT>
+          </P>
+        </htmlText>
+        <w>357.9</w>
+        <h>61.6</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="3" r="-38.05403016611648" s="0.292776911173876" type="label" x="75.3" y="250.85">
+      <textfield>
+        <x>-33.55</x>
+        <y>-16.4</y>
+        <text>Why?</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Why?</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="4" r="0" s="0.1123087549586165" type="arrow" x="351.95" y="-15.9">
+      <sp x="3134.05" y="0.9"><url /></sp>
+      <ep x="3134.2" y="-270" />
+    </object>
+    <object id="5" r="0" s="0.1123087549586165" type="arrow" x="352" y="16">
+      <sp x="3134.75" y="1.55"><url /></sp>
+      <ep x="3134.2" y="270" />
+    </object>
+    <object id="6" r="0" s="0.1123087549586165" type="arrow" x="367.9" y="0">
+      <sp x="3134.2" y="0"><url /></sp>
+      <ep x="3404.2" y="0" />
+    </object>
+    <object id="7" r="0" s="0.1123087549586165" type="arrow" x="336.15" y="0.1">
+      <sp x="3134.2" y="1"><url /></sp>
+      <ep x="2866.2" y="1" />
+    </object>
+    <object class="body" id="8" r="0" s="0.11230875551700592" type="label" x="351.85" y="-36.65">
+      <textfield>
+        <x>-98.95</x>
+        <y>-16.4</y>
+        <text>Online</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Online</FONT>
+          </P>
+        </htmlText>
+        <w>197.95</w>
+        <h>32.8</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="9" r="179.4291914795868" s="0.11230875582425996" type="label" x="351.8" y="37.15">
+      <textfield>
+        <x>-99.65</x>
+        <y>-16.4</y>
+        <text>Offline</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Offline</FONT>
+          </P>
+        </htmlText>
+        <w>199.3</w>
+        <h>32.8</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="10" r="89.64354585394308" s="0.11230875337061065" type="label" x="389.8" y="0.35">
+      <textfield>
+        <x>-99.15</x>
+        <y>-16.4</y>
+        <text>Web</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Web</FONT>
+          </P>
+        </htmlText>
+        <w>198.35</w>
+        <h>32.8</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="11" r="-90.10843781044004" s="0.11230875549191266" type="label" x="315.25" y="0.15">
+      <textfield>
+        <x>-99.45</x>
+        <y>-16.4</y>
+        <text>Native</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Native</FONT>
+          </P>
+        </htmlText>
+        <w>198.95</w>
+        <h>32.8</h>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="12" r="0" s="0.1123087549586165" type="button" x="354.05" y="1.5">
+      <type>invisible<url /></type>
+      <size>
+        <w>762</w>
+        <h>748</h>
+      </size>
+    </object>
+    <object class="body" id="13" r="0" s="0.019999999552965164" type="label" x="350" y="-1.25">
+      <textfield>
+        <x>-54.6</x>
+        <y>-16.4</y>
+        <text>Two Axes</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Two Axes</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="15" r="0" s="0.0226150956004858" type="label" x="362.65" y="-35.4">
+      <textfield>
+        <x>-267.1</x>
+        <y>-74</y>
+        <text>Large Data Sets
+Real-time Data
+Easy Sync
+
+</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Large Data Sets</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Real-time Data</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Easy Sync</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+        </htmlText>
+        <w>534.2</w>
+        <h>119.2</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="16" r="179.42919153177658" s="0.016074065585058618" type="label" x="343.05" y="36.55">
+      <textfield>
+        <x>-157.55</x>
+        <y>-45.2</y>
+        <text>Available Anywhere
+Works With iPods Touch
+</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Available Anywhere</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Works With iPods Touch</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>315.15</w>
+        <h>61.6</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="17" r="89.64354584386162" s="0.02668961565112479" type="label" x="389.25" y="11.15">
+      <textfield>
+        <x>-214.85</x>
+        <y>-45.2</y>
+        <text>Unrestricted
+Multiplatform
+</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Unrestricted</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Multiplatform</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>429.7</w>
+        <h>61.6</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="18" r="-90.10843781547533" s="0.01604583566693507" type="label" x="315.5" y="-8.85">
+      <textfield>
+        <x>-212.25</x>
+        <y>-59.6</y>
+        <text>Access to Sensors
+Access to Camera/Media
+Push Notifications
+App Store</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Access to Sensors</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Access to Camera/Media</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Push Notifications</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">App Store</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>424.5</w>
+        <h>119.2</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="19" r="0" s="0.5988041162490845" type="label" x="347.55" y="176.05">
+      <textfield>
+        <x>-33.9</x>
+        <y>-16.4</y>
+        <text>REST</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">REST</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="20" r="0" s="0.19407875835895536" type="label" x="400.35" y="177">
+      <textfield>
+        <x>-166.35</x>
+        <y>-16.4</y>
+        <text>REpresentational State Transfer</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">REpresentational State Transfer</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="21" r="0" s="0.2054901123046875" type="label" x="378.85" y="215.35">
+      <textfield>
+        <x>-289.35</x>
+        <y>-16.4</y>
+        <text>Using HTTP to manipulate “resources” over the Internet</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Using HTTP to manipulate “resources” over the Internet</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="22" r="0" s="0.019989013671875" type="label" x="339.6" y="218.6">
+      <textfield>
+        <x>-138.85</x>
+        <y>-16.4</y>
+        <text>More than GET and POST</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">More than GET and POST</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="26" r="0" s="0.1331456823066431" type="label" x="442.35" y="267.45">
+      <textfield>
+        <x>-28.85</x>
+        <y>-16.4</y>
+        <text>GET</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">GET</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="27" r="0" s="0.1331456823066431" type="label" x="459.5" y="284.7">
+      <textfield>
+        <x>-35.6</x>
+        <y>-16.4</y>
+        <text>POST</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">POST</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="28" r="0" s="0.1331456823066431" type="label" x="434.6" y="303.85">
+      <textfield>
+        <x>-28.85</x>
+        <y>-16.4</y>
+        <text>PUT</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">PUT</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="29" r="0" s="0.1331456823066431" type="label" x="469.05" y="317.15">
+      <textfield>
+        <x>-50</x>
+        <y>-16.4</y>
+        <text>DELETE</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">DELETE</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="30" r="0" s="0.05051190033555031" type="label" x="457.6" y="267.4">
+      <textfield>
+        <x>-195.75</x>
+        <y>-16.4</y>
+        <text>Retrieve a resource or list of resources</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Retrieve a resource or list of resources</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="31" r="0" s="0.04259101301431656" type="label" x="468.8" y="284.8">
+      <textfield>
+        <x>-116.55</x>
+        <y>-16.4</y>
+        <text>Create a new resource</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Create a new resource</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="32" r="0" s="0.047737278044223785" type="label" x="480.85" y="317.2">
+      <textfield>
+        <x>-25.45</x>
+        <y>-16.4</y>
+        <text>duh</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">duh</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="33" r="0" s="0.03621206060051918" type="label" x="443.65" y="303.9">
+      <textfield>
+        <x>-145.15</x>
+        <y>-16.4</y>
+        <text>Update an existing resource</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Update an existing resource</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="34" r="0" s="0.0910916030406952" type="button" x="438.8" y="304">
+      <type>invisible<url /></type>
+      <size>
+        <w>242</w>
+        <h>74</h>
+      </size>
+    </object>
+    <object class="invisible" id="35" r="0" s="0.08023170003347073" type="button" x="472.5" y="317.15">
+      <type>invisible<url /></type>
+      <size>
+        <w>273.5</w>
+        <h>90</h>
+      </size>
+    </object>
+    <object class="invisible" id="37" r="0" s="0.034210740479182704" type="button" x="464.05" y="285.5">
+      <type>invisible<url /></type>
+      <size>
+        <w>655</w>
+        <h>192</h>
+      </size>
+    </object>
+    <object class="invisible" id="38" r="0" s="0.02866405248641968" type="button" x="447.65" y="267.75">
+      <type>invisible<url /></type>
+      <size>
+        <w>692</w>
+        <h>210</h>
+      </size>
+    </object>
+    <object class="invisible" id="39" r="0" s="0.034210740479182704" type="button" x="454.25" y="267.6">
+      <type>invisible<url /></type>
+      <size>
+        <w>972</w>
+        <h>243</h>
+      </size>
+    </object>
+    <object class="invisible" id="41" r="0" s="0.28393707926541056" type="button" x="375.95" y="176.5">
+      <type>invisible<url /></type>
+      <size>
+        <w>450</w>
+        <h>110</h>
+      </size>
+    </object>
+    <object class="invisible" id="43" r="0" s="0.20913257809708713" type="button" x="375.65" y="199.95">
+      <type>invisible<url /></type>
+      <size>
+        <w>632</w>
+        <h>391</h>
+      </size>
+    </object>
+    <object class="invisible" id="44" r="0" s="0.03745327196680524" type="button" x="339.5" y="216.75">
+      <type>invisible<url /></type>
+      <size>
+        <w>383.75</w>
+        <h>217.35</h>
+      </size>
+    </object>
+    <object class="body" id="45" r="0" s="0.6471993327140808" type="label" x="628.35" y="160.2">
+      <textfield>
+        <x>-69.1</x>
+        <y>-16.4</y>
+        <text>For Example</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">For Example</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="46" r="0" s="0.25493186712265015" type="label" x="597.25" y="213.45">
+      <textfield>
+        <x>-45.65</x>
+        <y>-88.4</y>
+        <text>Create:
+Read:
+Update:
+Delete:
+
+List:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Create:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Read:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Update:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Delete:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">List:</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="47" r="0" s="0.25493186712265015" type="label" x="665.6" y="213.75">
+      <textfield>
+        <x>-196.5</x>
+        <y>-88.4</y>
+        <text>POST /resources
+GET /resources/abc123
+PUT /resources/abc123
+DELETE /resources/abc123
+
+GET /resources</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">POST /resources</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">GET /resources/abc123</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">PUT /resources/abc123</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">DELETE /resources/abc123</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">GET /resources</FONT>
+          </P>
+        </htmlText>
+        <w>393</w>
+        <h>176.8</h>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="48" r="0" s="0.2549318689753731" type="button" x="632.85" y="194.85">
+      <type>invisible<url /></type>
+      <size>
+        <w>452</w>
+        <h>354</h>
+      </size>
+    </object>
+    <object class="body" id="49" r="-128.32129559380255" s="0.537731898494904" type="label" x="669.3" y="-21.05">
+      <textfield>
+        <x>-65.95</x>
+        <y>-16.4</y>
+        <text>Objective-C</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Objective-C</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="50" r="-128.32129669129998" s="0.122259906272478" type="label" x="700" y="-42.25">
+      <textfield>
+        <x>-255.7</x>
+        <y>-30.8</y>
+        <text>“This language has all the memory safety of C
+combined with all the blazing speed of SmallTalk”</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">“This language has all the memory safety of C</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">combined with all the blazing speed of SmallTalk”</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="51" r="-128.32129559380255" s="0.12225990343445917" type="button" x="687.35" y="-32.45">
+      <type>invisible<url /></type>
+      <size>
+        <w>703</w>
+        <h>489</h>
+      </size>
+    </object>
+    <object class="body" id="52" r="-128.3212949476998" s="0.548564488668496" type="label" x="768.9" y="-98.9">
+      <textfield>
+        <x>-88</x>
+        <y>-16.4</y>
+        <text>Message Passing</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Message Passing</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="53" r="-128.32129524766356" s="0.19952046239679821" type="label" x="784.25" y="-130.45">
+      <textfield>
+        <x>-314.7</x>
+        <y>-16.4</y>
+        <text>[object doSomething:something withSomething:otherThing];</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">[object doSomething:something withSomething:otherThing];</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="54" r="-128.32129559380255" s="0.19952046572260726" type="button" x="776.3" y="-120.95">
+      <type>invisible<url /></type>
+      <size>
+        <w>709</w>
+        <h>319</h>
+      </size>
+    </object>
+    <object class="invisible" id="55" r="-128.32129515389795" s="0.21815822505994104" type="button" x="799.35" y="-148.95">
+      <type>invisible<url /></type>
+      <size>
+        <w>720</w>
+        <h>399</h>
+      </size>
+    </object>
+    <object class="body" id="56" r="-128.32129524766356" s="0.19952046239679821" type="label" x="811.65" y="-160">
+      <textfield>
+        <x>-345.6</x>
+        <y>-16.4</y>
+        <text>objc_msgSend(object, @selector(doSomething:withSomething:), ...);</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">objc_msgSend(object, @selector(doSomething:withSomething:), ...);</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="57" r="-128.32129493687663" s="0.6035124588328169" type="label" x="531.75" y="-202.05">
+      <textfield>
+        <x>-145.9</x>
+        <y>-16.4</y>
+        <text>Class and Instance Methods</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Class and Instance Methods</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="58" r="-128.32129608463254" s="0.26058393582792283" type="label" x="567.3" y="-231.05">
+      <textfield>
+        <x>-298.05</x>
+        <y>-74</y>
+        <text>+ (returnType *)classMethodWithParam:(param *)param {
+    returnType *result = nil; // TODO: calculate result
+
+    return result;
+}</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">+ (returnType *)classMethodWithParam:(param *)param {</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">returnType *result = nil; // TODO: calculate result</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">return result;</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">}</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="59" r="-128.32129559380255" s="0.26058394287864256" type="button" x="553.1" y="-215.25">
+      <type>invisible<url /></type>
+      <size>
+        <w>741</w>
+        <h>356</h>
+      </size>
+    </object>
+    <object class="invisible" id="60" r="-128.32129559380255" s="0.26058394287864256" type="button" x="587.2" y="-241.85">
+      <type>invisible<url /></type>
+      <size>
+        <w>729.15</w>
+        <h>394.55</h>
+      </size>
+    </object>
+    <object class="body" id="61" r="-128.32129608463254" s="0.26058393582792283" type="label" x="605.7" y="-267.35">
+      <textfield>
+        <x>-314.95</x>
+        <y>-74</y>
+        <text>- (returnType *)instanceMethodWithParam:(param *)param {
+    returnType *result = nil; // TODO: calculate result
+
+    return result;
+}</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- (returnType *)instanceMethodWithParam:(param *)param {</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">returnType *result = nil; // TODO: calculate result</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">return result;</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">}</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="62" r="-128.32129608463254" s="0.26058393582792283" type="label" x="649" y="-281.3">
+      <textfield>
+        <x>-252.45</x>
+        <y>-45.2</y>
+        <text>- (returnType *)instanceMethodWithNoParams {
+    // TODO: have side-effects
+}</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- (returnType *)instanceMethodWithNoParams {</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">// TODO: have side-effects</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">}</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="63" r="-128.32129559380255" s="0.21154564714904495" type="button" x="629.45" y="-270.05">
+      <type>invisible<url /></type>
+      <size>
+        <w>870</w>
+        <h>435</h>
+      </size>
+    </object>
+    <object class="body" id="84" r="-128.33961329425412" s="0.6025328150893662" type="label" x="757.45" y="-421.6">
+      <textfield>
+        <x>-57.15</x>
+        <y>-16.4</y>
+        <text>Properties</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Properties</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="85" r="-128.33861222098142" s="0.2601562700651064" type="label" x="765.15" y="-484.9">
+      <textfield>
+        <x>-264.9</x>
+        <y>-74</y>
+        <text>NSString *myString;
+
+...
+
+@property (nonatomic, retain) NSString *myString;</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">NSString *myString;</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">...</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">@property (nonatomic, retain) NSString *myString;</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="86" r="-128.33861222098142" s="0.2601562700651064" type="label" x="829.75" y="-487.9">
+      <textfield>
+        <x>-119.65</x>
+        <y>-16.4</y>
+        <text>@synthesize myString;</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">@synthesize myString;</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="87" r="-128.33861222098142" s="0.2601562700651064" type="label" x="860.65" y="-507.05">
+      <textfield>
+        <x>-99.05</x>
+        <y>-16.4</y>
+        <text>[myString release];</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">[myString release];</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="90" r="-128.33861222098142" s="0.2614476628514806" type="label" x="718.6" y="-63.1">
+      <textfield>
+        <x>-101.5</x>
+        <y>-16.4</y>
+        <text>Strict superset of C</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Strict superset of C</FONT>
+          </P>
+        </htmlText>
+        <w>203.05</w>
+        <h>32.8</h>
+      <url /></textfield>
+    </object>
+    <object class="body" id="91" r="-128.34346606704665" s="0.17955156618978088" type="label" x="960.45" y="-278.6">
+      <textfield>
+        <x>-31.85</x>
+        <y>-16.4</y>
+        <text>WET</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">WET</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="92" r="-128.33861031630985" s="0.059779341822910184" type="label" x="949.15" y="-294.1">
+      <textfield>
+        <x>-125.3</x>
+        <y>-16.4</y>
+        <text>Write Everything Twice</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Write Everything Twice</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="93" r="-128.34403136538543" s="0.05966940634598643" type="button" x="955.15" y="-287.85">
+      <type>invisible<url /></type>
+      <size>
+        <w>728</w>
+        <h>215</h>
+      </size>
+    </object>
+    <object class="body" id="94" r="0" s="0.6140289306640625" type="label" x="731.2" y="619.6">
+      <textfield>
+        <x>-76.65</x>
+        <y>-16.4</y>
+        <text>REST on Rails</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">REST on Rails</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="95" r="0" s="0.3986358642578125" type="label" x="775.7" y="655">
+      <textfield>
+        <x>-234.3</x>
+        <y>-45.2</y>
+        <text>Created with Controller Scaffold
+Called ActiveResource
+Supports CRUD operations out of the box</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Created with Controller Scaffold</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Called ActiveResource</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Supports CRUD operations out of the box</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="96" r="0" s="0.3986358642578125" type="button" x="770.7" y="652.75">
+      <type>invisible<url /></type>
+      <size>
+        <w>531</w>
+        <h>255</h>
+      </size>
+    </object>
+    <object class="body" id="103" r="0" s="0.4161642216446545" type="label" x="678.15" y="427.85">
+      <textfield>
+        <x>-124.2</x>
+        <y>-16.4</y>
+        <text>REST Libraries for Web</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">REST Libraries for Web</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="104" r="0" s="0.175541490316391" type="label" x="646.6" y="444.05">
+      <textfield>
+        <x>-59.45</x>
+        <y>-45.2</y>
+        <text>Ruby:
+Rails
+Sinatra</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Ruby:</FONT>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Rails</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Sinatra</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="105" r="0" s="0.175541490316391" type="label" x="692.45" y="443.9">
+      <textfield>
+        <x>-99.5</x>
+        <y>-45.2</y>
+        <text>.NET
+WCF
+ASP.NET MVC</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">.NET</FONT>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">WCF</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">ASP.NET MVC</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="106" r="0" s="0.175541490316391" type="label" x="645.95" y="463.1">
+      <textfield>
+        <x>-56.65</x>
+        <y>-30.8</y>
+        <text>PHP
+Recess</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">PHP</FONT>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Recess</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="107" r="0" s="0.175541490316391" type="label" x="687.1" y="465.35">
+      <textfield>
+        <x>-73.4</x>
+        <y>-30.8</y>
+        <text>JavaScript
+ExpressJS</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">JavaScript</FONT>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">ExpressJS</FONT>
+            </LI>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="129" r="0" s="0.42458855323687866" type="button" x="673.6" y="449.6">
+      <type>invisible<url /></type>
+      <size>
+        <w>291</w>
+        <h>162</h>
+      </size>
+    </object>
+    <object class="body" id="130" r="0" s="0.21581446720688657" type="label" x="1027.35" y="-226.45">
+      <textfield>
+        <x>-58.95</x>
+        <y>-16.4</y>
+        <text>Categories</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Categories</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="131" r="0" s="0.052189121510032306" type="label" x="1031.7" y="-215">
+      <textfield>
+        <x>-282.7</x>
+        <y>-102.8</y>
+        <text>AKA Monkey Patching:
+
+Can add methods to existing classes at runtime. 
+
+ObjectiveResource is primarily a category on NSObject
+that allows it to communicated with an ActiveResource
+web service. </text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">AKA Monkey Patching:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Can add methods to existing classes at runtime.</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">ObjectiveResource is primarily a category on NSObject</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">that allows it to communicated with an ActiveResource</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">web service.</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="132" r="0" s="0.052189121510032306" type="button" x="1030.05" y="-218.9">
+      <type>invisible<url /></type>
+      <size>
+        <w>689</w>
+        <h>468</h>
+      </size>
+    </object>
+    <object class="body" id="133" r="0" s="0.34493543798468773" type="label" x="1108.3" y="-148.9">
+      <textfield>
+        <x>-123.25</x>
+        <y>-16.4</y>
+        <text>Where to find this stuff</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Where to find this stuff</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="134" r="0" s="0.1122589111328125" type="label" x="1086.25" y="-125.8">
+      <textfield>
+        <x>-144.65</x>
+        <y>-102.8</y>
+        <text>iPhone Developer Program:
+Ruby on Rails:
+ObjectiveResource:
+
+Me:
+Today's Project:
+</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">iPhone Developer Program:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Ruby on Rails:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">ObjectiveResource:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Me:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Today's Project:</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="135" r="0" s="0.11226274818181992" type="label" x="1125.3" y="-125.6">
+      <textfield>
+        <x>-181.3</x>
+        <y>-102.8</y>
+        <text>http://developer.apple.com/iphone
+http://rubyonrails.com/
+http://iphoneonrails.com/
+
+frank@laikasys.com
+http://github.com/
+</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">
+              <A HREF="http://developer.apple.com/iphone" TARGET="_blank">
+                <U>http://developer.apple.com/iphone</U>
+              </A>
+            </FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">http://rubyonrails.com/</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">http://iphoneonrails.com/</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24" />
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">frank@laikasys.com</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">http://github.com/</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="invisible" id="137" r="0" s="0.11226274704192205" type="button" x="1107.1" y="-132.6">
+      <type>invisible<url /></type>
+      <size>
+        <w>791</w>
+        <h>377</h>
+      </size>
+    </object>
+    <object class="body" id="138" r="0" s="0.13040552941381828" type="label" x="1104.1" y="-200.2">
+      <textfield>
+        <x>-96</x>
+        <y>-16.4</y>
+        <text>Let’s get Coding…</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Let’s get Coding…</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="140" r="-90.10843781547533" s="0.8279887162341162" type="arrow" x="-57.75" y="316.8">
+      <sp x="-382.55" y="-69.9"><url /></sp>
+      <ep x="-382.55" y="-69.9" />
+    </object>
+  </zui-table>
+  <path>
+    <o>1</o>
+    <o>2</o>
+    <o>3</o>
+    <o>13</o>
+    <o>12</o>
+    <o>11</o>
+    <o>18</o>
+    <o>10</o>
+    <o>17</o>
+    <o>8</o>
+    <o>15</o>
+    <o>9</o>
+    <o>16</o>
+    <o>19</o>
+    <o>41</o>
+    <o>43</o>
+    <o>44</o>
+    <o>26</o>
+    <o>38</o>
+    <o>39</o>
+    <o>27</o>
+    <o>37</o>
+    <o>28</o>
+    <o>34</o>
+    <o>29</o>
+    <o>35</o>
+    <o>45</o>
+    <o>48</o>
+    <o>103</o>
+    <o>129</o>
+    <o>94</o>
+    <o>96</o>
+    <o>49</o>
+    <o>51</o>
+    <o>90</o>
+    <o>52</o>
+    <o>54</o>
+    <o>55</o>
+    <o>57</o>
+    <o>59</o>
+    <o>60</o>
+    <o>63</o>
+    <o>84</o>
+    <o>85</o>
+    <o>86</o>
+    <o>93</o>
+    <o>92</o>
+    <o>93</o>
+    <o>130</o>
+    <o>132</o>
+    <o>138</o>
+    <o>137</o>
+  </path>
+  <style type="text/css">
+@font-face
+{
+	src: url('LiberationSerif-Regular.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('LiberationSerif-Bold.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('calluna-regular.swf');
+	fontFamily: body;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.strong
+{
+	color: #288acc;
+	fontFamily: strong;
+}
+
+ZLabel.body
+{
+	color: #111;
+	fontFamily: body;
+}
+
+Background
+{
+	gradEnd: 16777215;
+	gradStart: 16777215;
+}
+
+Grid
+{
+	color: #ddd;
+}
+
+ZFrame.circle
+{
+	gradStartAlpha: 0.4;
+	gradStartColor: #e6e6e6;
+	gradEndAlpha: 0.4;
+	gradEndColor: #999;
+	thickness: 6;
+}
+
+ZSmartGroup.circle
+{
+	skinClass: hu.kibu.zui.model.skins.CircleFrameSkin;
+}
+
+CircleFrameSkin
+{
+	gradStartAlpha: 0.4;
+	highlightFillAlpha: 0.2;
+	highlightBorderAlpha: 0.6;
+	highlightBorderColor: #333;
+	highlightFillColor: #5aa7cb;
+	borderThickness: -1;
+	thickness: 6;
+	editOpenAlpha: 0.2;
+	gradStartColor: #e6e6e6;
+	gradEndAlpha: 0.4;
+	gradEndColor: #999;
+}
+
+ZFrame.bracket
+{
+	color: #000;
+	alpha: 0.15;
+	thickness: 10;
+}
+
+ZSmartGroup.bracket
+{
+	skinClass: hu.kibu.zui.model.skins.BracketFrameSkin;
+}
+
+BracketFrameSkin
+{
+	editOpenAlpha: 0.2;
+	highlightFillAlpha: 0.2;
+	color: #000;
+	gradStartColor: #000;
+	gradEndColor: #000;
+	gradStartAlpha: 0.15;
+	highlightFillColor: #5aa7cb;
+	gradEndAlpha: 0.15;
+	borderThickness: -1;
+	thickness: 10;
+	highlightBorderAlpha: 0.6;
+	highlightBorderColor: #333;
+	alpha: 0.15;
+}
+
+ZFrame.roundrect
+{
+	gradStartAlpha: 0.1;
+	gradStartColor: #000;
+	gradEndAlpha: 0.02;
+	gradEndColor: #000;
+	radius: 14;
+}
+
+ZSmartGroup.roundrect
+{
+	skinClass: hu.kibu.zui.model.skins.RoundRectFrameSkin;
+}
+
+RoundRectFrameSkin
+{
+	gradStartAlpha: 0.1;
+	highlightFillAlpha: 0.2;
+	highlightBorderAlpha: 0.6;
+	highlightBorderColor: #333;
+	highlightFillColor: #5aa7cb;
+	borderThickness: -1;
+	editOpenAlpha: 0.2;
+	gradStartColor: #000;
+	gradEndAlpha: 0.02;
+	gradEndColor: #000;
+	radius: 14;
+}
+
+ZSmartGroup.hidden
+{
+	skinClass: hu.kibu.zui.model.skins.HiddenFrameSkin;
+}
+
+HiddenFrameSkin
+{
+	gradStartAlpha: 0.02;
+	highlightFillAlpha: 0.2;
+	highlightBorderAlpha: 0.6;
+	highlightBorderColor: #333;
+	borderThickness: -1;
+	highlightFillColor: #5aa7cb;
+	gradStartColor: #000;
+	gradEndAlpha: 0.3;
+	gradEndColor: #000;
+	radius: 14;
+}
+
+ZFrame.invisible
+{
+	gradStartAlpha: 0.02;
+	borderAlpha: 0.6;
+	gradEndAlpha: 0.3;
+	borderColor: #5aa7cb;
+	gradStartColor: #000;
+	gradEndColor: #000;
+	radius: 14;
+}
+
+ZCurveLine
+{
+	color: #288acc;
+	alpha: 1;
+	thickness: 0;
+}
+
+ZArrow
+{
+	thickness: 8;
+	borderAlpha: 0.6;
+	borderColor: #fff;
+	color: #288acc;
+	alpha: 1;
+	borderThickness: 0;
+}
+
+ZMarker
+{
+	color: #288acc;
+	alpha: 0.3;
+	thickness: 25;
+}
+
+ZPath
+{
+	textColor: #fff;
+	color: #40abe6;
+	alpha: 1;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+</style>
+<config>QKMA5XAK4pdviXHzxG9t27n2tI833D2fRPF070fdKnVZS+3/O3kd3t3zmq30swiVR0WENZADKwUidfyaQruDMuyTYFgLmCuVn/lgQ3QIZR6GNjXD806UPwPFYF58usOSR1iupuYSFEPRB2PHS+64AE9LPkS7gjI0JCcgDsZRbuba0auiXGNNkBhjAxfJDlv9T8NsR3rcX7WdepNjtBRrB/KHfM70AU1I8IVdz/lC+who6F5yWubp7tLz3i4PudqliTIDxu3q3MqBh6uTrSkjKq09SIc+579phCW7wceA9ob4PfKqO/EZKECFS6RP7Ct1tIYcCVeUjvsD1iba/KkTTg==</config></zuiprezi>
